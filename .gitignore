@@ -8,6 +8,7 @@ venv/
 env/
 ENV/
 .venv
+saved_model.pth
 
 # Model files (uncomment if you want to exclude trained models)
 # *.pth
