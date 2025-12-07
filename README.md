@@ -3,6 +3,7 @@
 A complete full-stack application for classifying chest X-rays as NORMAL or PNEUMONIA using deep learning (ResNet-18 transfer learning) with a FastAPI backend and React frontend.
 
 ## 🎯 Project Overview
+<img width="1903" height="865" alt="Capture d&#39;écran 2025-12-07 205556" src="https://github.com/user-attachments/assets/7fd868af-0e13-4ca6-a1e8-7813f69aa7ad" />
 
 This application provides an AI-powered diagnostic tool that:
 - **Backend**: Uses PyTorch and ResNet-18 (pre-trained on ImageNet) for binary classification
